@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LariGrowthOsManifest",
+  "type": "object",
+  "required": [
+    "project_name",
+    "canonical_handoff_revision",
+    "repository_identity",
+    "project_state",
+    "current_phase",
+    "current_work_package",
+    "autonomous_mode",
+    "production_authority",
+    "cloud_deployment_authority",
+    "lari_production_mutation_authority",
+    "aos_production_mutation_authority",
+    "controller_report_schema_version"
+  ],
+  "properties": {
+    "project_name": { "type": "string", "const": "LARI Growth OS" },
+    "canonical_handoff_revision": { "type": "string" },
+    "revision_date": { "type": "string" },
+    "repository_identity": { "type": "string" },
+    "project_state": { "type": "string" },
+    "current_phase": { "type": "string" },
+    "current_work_package": { "type": "string" },
+    "autonomous_mode": { "type": "string", "const": "BOUNDED_NON_PROD" },
+    "production_authority": { "type": "string", "const": "NO_GO" },
+    "cloud_deployment_authority": { "type": "string", "const": "NOT_AUTHORIZED" },
+    "lari_production_mutation_authority": { "type": "string", "const": "NOT_AUTHORIZED" },
+    "aos_production_mutation_authority": { "type": "string", "const": "NOT_AUTHORIZED" },
+    "controller_report_schema_version": { "type": "string", "const": "1.0" }
+  }
+}

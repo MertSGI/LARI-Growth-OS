@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://larihealth.com/</loc>
+    <lastmod>2026-09-15T12:00:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://larihealth.com/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://larihealth.com/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://larihealth.com/de/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://larihealth.com/" />
+  </url>
+  <url>
+    <loc>https://larihealth.com/services/hair-transplant/</loc>
+    <lastmod>2026-09-10T10:00:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://larihealth.com/services/hair-transplant/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://larihealth.com/es/services/hair-transplant/" />
+  </url>
+  <url>
+    <loc>https://larihealth.com/services/dental-implants/</loc>
+    <lastmod>2026-09-11T09:00:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://larihealth.com/services/dental-implants/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://larihealth.com/es/services/dental-implants/" />
+  </url>
+  <url>
+    <loc>https://larihealth.com/clinics/istanbul/</loc>
+    <lastmod>2026-09-08T08:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://larihealth.com/packages/all-inclusive-hair/</loc>
+    <lastmod>2026-09-12T14:00:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://larihealth.com/about-us/</loc>
+    <lastmod>2026-08-20T11:00:00Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

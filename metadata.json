@@ -1,0 +1,6 @@
+{
+  "name": "LARI Growth OS",
+  "description": "Autonomous growth, visibility, acquisition, CRO, reputation, and revenue-optimization controller for LARI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
